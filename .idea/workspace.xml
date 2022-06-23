@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71a81a4-f50d-4468-8288-e9d093477e05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muralDeNotas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etities/Aluno.java" afterDir="false" />
-    </list>
+    <list default="true" id="f71a81a4-f50d-4468-8288-e9d093477e05" name="Changes" comment="Programa para registrar média do aluno&#10;identificar se foi aprovado ou não, exibir pontuação restante para aprovar , caso fique reprovado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655979785647</updated>
     </task>
+    <task id="LOCAL-00001" summary="Programa para registrar média do aluno&#10;identificar se foi aprovado ou não, exibir pontuação restante para aprovar , caso fique reprovado">
+      <created>1655996699723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655996699723</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programa para registrar média do aluno&#10;identificar se foi aprovado ou não, exibir pontuação restante para aprovar , caso fique reprovado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programa para registrar média do aluno&#10;identificar se foi aprovado ou não, exibir pontuação restante para aprovar , caso fique reprovado" />
   </component>
 </project>
